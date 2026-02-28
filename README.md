@@ -1,4 +1,6 @@
 # NS116 — DNS Manager
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frda-run%2Fns116.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frda-run%2Fns116?ref=badge_shield)
+
 
 Open-source web interface for managing AWS Route53 DNS records with
 multi-user support, role-based access control, and audit logging.
@@ -163,6 +165,9 @@ web/
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frda-run%2Fns116.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frda-run%2Fns116?ref=badge_large)
 
 ## Disclaimer
 
